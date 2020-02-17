@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Fadeev/CLionProjects/C++HW9/Fraction.cpp
+iostream
+-
+cmath
+-
+algorithm
+-
+Fraction.h
+/Users/Fadeev/CLionProjects/C++HW9/Fraction.h
+
+/Users/Fadeev/CLionProjects/C++HW9/Fraction.h
+
+/Users/Fadeev/CLionProjects/C++HW9/main.cpp
+iostream
+-
+Fraction.h
+/Users/Fadeev/CLionProjects/C++HW9/Fraction.h
+

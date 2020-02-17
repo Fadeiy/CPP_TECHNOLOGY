@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Fadeev/CLionProjects/HW7_3/Date.cpp
+string
+-
+Date.h
+/Users/Fadeev/CLionProjects/HW7_3/Date.h
+
+/Users/Fadeev/CLionProjects/HW7_3/Date.h
+iostream
+-
+
+/Users/Fadeev/CLionProjects/HW7_3/Person.cpp
+Person.h
+/Users/Fadeev/CLionProjects/HW7_3/Person.h
+
+/Users/Fadeev/CLionProjects/HW7_3/Person.h
+iostream
+-
+Date.h
+/Users/Fadeev/CLionProjects/HW7_3/Date.h
+
+/Users/Fadeev/CLionProjects/HW7_3/Student.cpp
+Student.h
+/Users/Fadeev/CLionProjects/HW7_3/Student.h
+
+/Users/Fadeev/CLionProjects/HW7_3/Student.h
+Person.h
+/Users/Fadeev/CLionProjects/HW7_3/Person.h
+
+/Users/Fadeev/CLionProjects/HW7_3/main.cpp
+iostream
+-
+Student.h
+/Users/Fadeev/CLionProjects/HW7_3/Student.h
+Person.h
+/Users/Fadeev/CLionProjects/HW7_3/Person.h
+Date.h
+/Users/Fadeev/CLionProjects/HW7_3/Date.h
+

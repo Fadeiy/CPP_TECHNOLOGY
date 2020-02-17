@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Fadeev/CLionProjects/HW7_1/Driver.cpp
+iostream
+-
+Driver.h
+/Users/Fadeev/CLionProjects/HW7_1/Driver.h
+
+/Users/Fadeev/CLionProjects/HW7_1/Driver.h
+Rect.h
+/Users/Fadeev/CLionProjects/HW7_1/Rect.h
+
+/Users/Fadeev/CLionProjects/HW7_1/PlaneFigure.h
+iostream
+-
+
+/Users/Fadeev/CLionProjects/HW7_1/Rect.cpp
+Rect.h
+/Users/Fadeev/CLionProjects/HW7_1/Rect.h
+
+/Users/Fadeev/CLionProjects/HW7_1/Rect.h
+PlaneFigure.h
+/Users/Fadeev/CLionProjects/HW7_1/PlaneFigure.h
+
+/Users/Fadeev/CLionProjects/HW7_1/main.cpp
+Driver.h
+/Users/Fadeev/CLionProjects/HW7_1/Driver.h
+
